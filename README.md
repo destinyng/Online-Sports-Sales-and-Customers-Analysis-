@@ -1,4 +1,4 @@
-#Online Sports Sales and Customers Analysis
+#Online Sports Sales and Customers Analysis#
 Summary
 The "Online Sports Sales and Customers Analysis" project is a comprehensive SQL-based analysis of an online sports sales dataset. This project provides a range of SQL queries that enable users to extract valuable insights and gain a deep understanding of their online sports sales and customer data. Here's a concise summary of the project:
 
